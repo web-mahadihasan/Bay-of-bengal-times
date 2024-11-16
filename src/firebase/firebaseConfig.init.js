@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAdKeGe9RgvsLRPlRZGOUXv0-8bMYSkVKE",
-  authDomain: "bay-of-bengal-times.firebaseapp.com",
-  projectId: "bay-of-bengal-times",
-  storageBucket: "bay-of-bengal-times.firebasestorage.app",
-  messagingSenderId: "56671631179",
-  appId: "1:56671631179:web:d26d1a55c2cbb1bf01dace"
+  apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId: import.meta.env.VITE_messagingSenderId,
+  appId: import.meta.env.VITE_appId,
 };
 
 // Initialize Firebase
