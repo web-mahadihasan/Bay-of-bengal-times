@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "FlightBayern Slams Authorities Over Flight Delay to Club World Cup",
+    "image": "https://i.ibb.co.com/ynb89bP/News-1.png",
+    "posted_time": "Jan 4, 2022",
+    "category": "Sports"
+  },
+  {
+    "id": 2,
+    "title": "Groundbreaking Art Exhibition Opens in Paris",
+    "image": "https://i.ibb.co.com/q7QHnQw/News-2.png",
+    "posted_time": "Jan 5, 2022",
+    "category": "Arts"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Entertainment Highlights of the Year",
+    "image": "https://i.ibb.co.com/742rsB6/news-3.png",
+    "posted_time": "Jan 6, 2022",
+    "category": "Entertainment"
+  }
+]
